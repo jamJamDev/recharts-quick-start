@@ -1,27 +1,27 @@
 [
   {
-    "name": "Emma",
-    "gender": "F",
-    "count": 1900
+    "shortName": "BTC",
+    "longName": "BitCoin",
+    "count": 80
   },
   {
-    "name": "Sophia",
-    "gender": "F",
-    "count": 1850
+    "shortName": "OMG",
+    "longName": "OmisieGo",
+    "count": 90
   },
   {
-    "name": "Olivia",
-    "gender": "F",
-    "count": 1600
+    "shortName": "NEO",
+    "longName": "NEO/AntShares",
+    "count":20
   },
   {
-    "name": "Ava",
-    "gender": "F",
-    "count": 1480
+    "shortName": "STUFF",
+    "longName": "stuff coin",
+    "count": 19
   },
   {
-    "name": "Mia",
-    "gender": "F",
-    "count": 1800
+    "shortName": "DODGE",
+    "longName": "Doge coin",
+    "count":65
   }
 ]
